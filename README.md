@@ -11,7 +11,7 @@
 
 ## 📫 연락처
 - 📧 Email: joonhoo1770@gmail.com
-- 🔗 Blog: [내 블로그 주소]
+<!--- 🔗 Blog: [내 블로그 주소]-->
 - 🏆 GitHub Stats  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohJoonHoo&show_icons=true&theme=tokyonight)
 
